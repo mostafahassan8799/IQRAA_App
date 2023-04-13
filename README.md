@@ -16,11 +16,11 @@
     <a href="https://github.com/mostafahassan8799/IQRAA_App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/itsherifAhmed/quran_kareem">View Demo</a>
+    <a href="https://github.com/mostafahassan8799/IQRAA_App">View Demo</a>
     ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Report Bug</a>
+    <a href="https://github.com/mostafahassan8799/IQRAA_App">Report Bug</a>
     ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Request Feature</a>
+    <a href="https://github.com/mostafahassan8799/IQRAA_App">Request Feature</a>
   </p>
 </div>
 
